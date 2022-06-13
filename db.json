@@ -1,0 +1,30 @@
+{
+    "user": [
+        {
+            "name": "John Doe",
+            "role": "voter",
+            "username": "john",
+            "password": "1234",
+            "age": 15,
+            "token": "6f85eca06c",
+            "id": 1
+        },
+        {
+            "name": "Donald Trump",
+            "role": "candidate",
+            "votes": 0,
+            "party": "republicans",
+            "age": 15,
+            "id": 2
+        },
+        {
+            "id": "4",
+            "name": "Jack Maa",
+            "role": "voter",
+            "username": "jack",
+            "password": "5678",
+            "age": 15,
+            "token": "1234567890"
+        }
+    ]
+}
